@@ -1,0 +1,6 @@
+{
+  "name": "BeFit Tracker",
+  "description": "Redesigned fitness, workout, nutrition, and habit tracking platform with streamlined navigation, active workouts, daily momentum, and interactive engagement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
